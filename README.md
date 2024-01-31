@@ -17,7 +17,7 @@
 点击右上角的 fork。
 
 ### 2 获取 cookie
-
+   
 在 [GLaDOS](https://glados.rocks/console/checkin) 的网页上按 F12，进行请求，查看请求的 cookie。
 
 ### 3 设置 cookie
